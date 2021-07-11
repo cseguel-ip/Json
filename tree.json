@@ -1,26 +1,26 @@
 {
-    "marcadores": [
+    "Plataformas": [
       {
-        "latitude": 40.416875,
-        "longitude": -3.703308,
-        "city": "Madrid",
-        "description": "Puerta del Sol"
+        "Nombre": "Office 365",
+        "Detalles": "Servicios de la nube de suite Office 365"
       },
       {
-        "latitude": 40.417438,
-        "longitude": -3.693363,
-        "city": "Santiago",
-        "description": "Paseo del Prado"
+        "Nombre": "EVA",
+        "Detalles": "Entorno Virtual de Aprendisaje"
+      },
+      {
+        "Nombre": "PE",
+        "Detalles": "Portal de Encuesta"
       }
     ],
-        "Comunas": [
+        "Credenciales": [
       {
-        "Pais": "Chile",
-        "Numero": "17.000.000"
+        "Usuarios": "admin",
+        "Contraseñas": "FGHJ567F9SDHISUDVHU"
       },
       {
-        "Pais": "Peru",
-        "Numero": "20.000.000"
+        "Usuarios": "admin",
+        "Contraseñas": "FGHJ567F9SDHISUDVHU"
       }
     ]
 }
